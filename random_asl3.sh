@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Adapted by Freddie for AllStarLink Version 3 on Debian 12
+# Adapted by Freddie Mac for AllStarLink Version 3 on Debian 12 2024
 # Original Author: Tony Morris WRAW556 K1TNY for GMRS Live
 # Date: 03/12/2023
 
