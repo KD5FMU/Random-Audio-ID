@@ -5,7 +5,7 @@ This script file will allow your AllStarLink version 3 node to play an audio fil
 
 First thing first. I don't like to break away from the methods that have worked for me so with that said I like to put this script file in /usr/local/sbin becuase that is where the script creator Tony put it and that is where is worked for me. Will it work if it's in a different dorectory? I don't know, I just like to go with what works. Do with that said...
 
-change your directory to /use/local/sbin by using the following command:
+### change your directory to /use/local/sbin by using the following command:
 ```
 cd /usr/local/sbin
 ```
