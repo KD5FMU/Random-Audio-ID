@@ -1,5 +1,5 @@
 # Random Audio File Player / random_asl3.sh
-##Random Audio File Player for AllStarLink version 3**
+## Random Audio File Player for AllStarLink version 3
 
 This script file will allow your AllStarLink version 3 node to play an audio file from a deisgnated folder randomly at any designated interval. I chose to have mine play at the bottom of every hour. I can also set the audio files play and a number of different intervals. Use the https://crontab.guru/ website to get your crontab timing the way you want it.
 
