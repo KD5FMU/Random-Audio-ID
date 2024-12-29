@@ -26,7 +26,7 @@ If the folder does not exist then you can create it with this command:
 sudo mkdir /var/lib/asterisk/sounds/notices
 ```
 
-**Reminder that the file that you want played have to be 16bit PCM file that is 8000hz mono output. 
+**Reminder that the file that you want played have to be 16bit PCM file that is 8000hz mono output.**
 
 I use the Audacity program to convert my wav files to the approproate settings as well as the cloud convert website. Referecne this video for the audio file proceedure. I am working on a simplified method and will update this repository once I have done so. Meanwhile consult this video. https://www.youtube.com/watch?v=Otb_iAXuV4g&t=514s
 
