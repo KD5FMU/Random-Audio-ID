@@ -32,7 +32,7 @@ I use the Audacity program to convert my wav files to the approproate settings a
 
 Now we need to go into the crontab editor and add our cron job so that the sript file will fire and play a random file as desinated. I use this particular entry:
 ```
-30 * * * * /usr/local/sbin/random_asl3.sh var/lib/asterisk/sounds/notices YOUR_NODE_NUMBER
+30 * * * * /usr/local/sbin/random_asl3.sh /var/lib/asterisk/sounds/notices YOUR_NODE_NUMBER
 ```
 
 Be sure and replace the X's with your node number.
